@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        /* Récuperation des variables */
+        /* Récuperation des variables mega pute */
         Button start = (Button) findViewById(R.id.start);
         Button stop = (Button) findViewById(R.id.stop);
         Chronometer screen = (Chronometer) findViewById(R.id.screen);
